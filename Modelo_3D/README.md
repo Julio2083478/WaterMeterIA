@@ -14,7 +14,8 @@ En la carpeta **Planos**, se encuentran los archivos correspondientes a los plan
 Descargue el repositorio en su computador y siga las instrucciones expuestas a continuación.
 
 ## Para editar o crear nuevas piezas:
-**1.** Para visualizar o editar las piezas de este proyecto, ingrese a la carpeta **"Modelo_3D"** contenida en el repositorio.
+Para visualizar o editar las piezas de este proyecto:
+**1.** Ingrese a la carpeta **"Modelo_3D"** contenida en el repositorio.
 
 **2.** Diríjase a la carpeta **"Archivos_piezas"**.
 
@@ -24,7 +25,7 @@ Descargue el repositorio en su computador y siga las instrucciones expuestas a c
 
 **5.** Guarde los cambios realizados.
 
-**6.** Si desea crear una nueva pieza, diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Pieza"_ y siga los pasos anteriores.
+Si desea crear una nueva pieza, diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Pieza"_ y siga los pasos anteriores.
 
 ## Para realizar una impresión 3D de la pieza:
 Una vez terminado el diseño de la pieza en el software, seleccione _"Archivo"_ ---> _"Guardar como"_ ---> _"Tipo de archivo"_ ---> "*.stl"
