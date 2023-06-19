@@ -14,18 +14,21 @@ En la carpeta **Planos**, se encuentran los archivos correspondientes a los plan
 Descargue el repositorio en su computador y siga las instrucciones expuestas a continuación.
 
 ## Para editar o crear nuevas piezas:
-Para visualizar o editar las piezas de este proyecto:
-**1.** Ingrese a la carpeta **"Modelo_3D"** contenida en el repositorio.
++ Para _**visualizar**_ o _**editar**_ las piezas de este proyecto:
 
-**2.** Diríjase a la carpeta **"Archivos_piezas"**.
+  **1.** Ingrese a la carpeta **"Modelo_3D"** contenida en el repositorio.
 
-**3.** Escoja el archivo que desee visualizar y ábralo con SolidWorks.
+  **2.** Diríjase a la carpeta **"Archivos_piezas"**.
 
-**4.** Empiece a editar la pieza a su gusto.
+  **3.** Escoja el archivo que desee visualizar y ábralo con SolidWorks.
 
-**5.** Guarde los cambios realizados.
+  **4.** Empiece a editar la pieza a su gusto.
 
-Si desea crear una nueva pieza, diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Pieza"_ y siga los pasos anteriores.
+  **5.** Guarde los cambios realizados.
+
++ Si desea _**crear**_ una nueva pieza:
+
+  Diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Pieza"_ y siga los pasos anteriores.
 
 ## Para realizar una impresión 3D de la pieza:
 Una vez terminado el diseño de la pieza en el software, seleccione _"Archivo"_ ---> _"Guardar como"_ ---> _"Tipo de archivo"_ ---> "*.stl"
