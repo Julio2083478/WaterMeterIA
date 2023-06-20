@@ -2,7 +2,7 @@
 Dentro de la carpeta actual, se encuentran todos los archivos relacionados con el diseño 3D empleado en el proyecto.
 
 ## Archivos_STL:
-En la carpeta **Archivos_STL**, se encuentran los archivos utilizados para la impresión 3D de cada una de las piezas. Se recomienda tener en cuenta que la impresión se realizó con el material PLA de ### mm.
+En la carpeta **Archivos_STL**, se encuentran los archivos utilizados para la impresión 3D de cada una de las piezas. Se recomienda tener en cuenta que la impresión se realizó con el material PLA de 0.6 mm.
 
 ## Archivos_piezas:
 La carpeta **Archivos_piezas**, contiene todos los archivos correspondientes a las diferentes piezas empleadas en el diseño. Los archivos allí almacenados fueron desarrollados mediante el software de diseño CAD SolidWorks.
