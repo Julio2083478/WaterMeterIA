@@ -13,7 +13,7 @@ En la carpeta **Planos**, se encuentran los archivos correspondientes a los plan
 # Cómo usarlo:
 Descargue el repositorio en su computador y siga las instrucciones expuestas a continuación.
 
-## Para editar o crear nuevas piezas:
+## Para editar las piezas:
 + Para _**visualizar**_ o _**editar**_ las piezas de este proyecto:
 
   **1.** Ingrese a la carpeta **"Modelo_3D"** contenida en el repositorio.
@@ -26,26 +26,4 @@ Descargue el repositorio en su computador y siga las instrucciones expuestas a c
 
   **5.** Guarde los cambios realizados.
 
-+ Si desea _**crear**_ una nueva pieza:
 
-  Diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Pieza"_ y siga los pasos anteriores.
-
-## Para realizar una impresión 3D de la pieza:
-Una vez terminado el diseño de la pieza en el software, seleccione _"Archivo"_ ---> _"Guardar como"_ ---> _"Tipo de archivo"_ ---> "*.stl"
-
-## Para elaborar nuevo plano:
-**1.** Abra SolidWorks en su computador.
-
-**2.** Diríjase a la parte superior izquierda de la pantalla y seleccione _"Nuevo"_ ---> _"Dibujo"_ ---> _"Aceptar"_.
-
-**3.** Seleccione el formato de hoja en el que desea elaborar su plano. En el caso de este proyecto, se utilizó un formato A4.
-
-**4.** Seleccione la pieza sobre la cual desea realizar el plano.
-
-**5.** Escoja las vistas que desea mostrar en el plano y ubíquelas en el espacio como crea conveniente.
-
-**6.** Seleccione una escala adecuada para visualizar cada una de las vistas.
-
-**7.** Una vez hecho esto, diríjase a la parte superior izquierda, _"Anotación"_ ---> _"Elementos del modelo"_ para importar todas aquellas medidas establecidas al momento de diseñar la pieza. O bien, si desea agregar nuevas medidas sobre la vista, seleccione _"Cota inteligente"_.
-
-**8.** Guarde el plano con el nombre que desee.
