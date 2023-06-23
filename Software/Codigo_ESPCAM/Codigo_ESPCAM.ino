@@ -129,7 +129,7 @@ void setup() {
 
   takeAndSavePhoto();
 
-  esp_deep_sleep(10 * 1000000);
+  esp_deep_sleep(6 * 3600 * 1000000);// Se despierta cada 6 horas para tomar captura 
 }
 
 void loop() {
