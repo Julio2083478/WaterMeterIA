@@ -16,8 +16,8 @@ char* ftp_user = "hola";  // Nombre de usuario del servidor FTP
 char* ftp_pass = "2181";  // Contraseña del servidor FTP
 char* ftp_path = "/";  // Ruta en el servidor FTP
 
-const char* WIFI_SSID = "FLIA_ESPINOZA";  // Nombre de la red Wi-Fi
-const char* WIFI_PASS = "ZANO302M";  // Contraseña de la red Wi-Fi
+const char* WIFI_SSID = "******";  // Nombre de la red Wi-Fi
+const char* WIFI_PASS = "******";  // Contraseña de la red Wi-Fi
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", (-3600*5), 60000);// Cliente NTP para obtener la hora actual
@@ -129,7 +129,7 @@ void setup() {
 
   takeAndSavePhoto();
 
-  esp_deep_sleep(6 * 3600 * 1000000);// Se despierta cada 6 horas para tomar captura 
+  esp_deep_sleep(3 * 3600 * 1000000);// Se despierta cada 3 horas para tomar captura 
 }
 
 void loop() {
