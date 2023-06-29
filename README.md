@@ -18,7 +18,10 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 Verifue que el dispositivo se encuentre con carga, de lo contrario ponga a cargar las baterias. 
 
 ### Paso a paso del servidor.
-1.
+1.Dirijase desde su navegador a la pagina de filezilla(https://filezilla-project.org/) luego descargue FileZilla Server.
+2.Luego de descargar FileZilla Proceda a abrirlo, en la sección de Host debes ingresar "localhost", el puerto puedes dejar el que aparezca por defecto y pudes definir la contraseña que desees.
+3.Realiza la cofiguración de los usuarios y grupos, en caso de solo haber usuarios individuales asegurese de dar acceso a cada uno de ellos a la carpeta donde se guardarán las imagenes(permisos de escritura y lectura).
+4.verifica que el cortafuegos de tu computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
 
 ### Paso a paso de la Interfaz de usuario.
 1. Busque la aplicación "water meter IA" y dele doble click.
