@@ -35,4 +35,12 @@ Verifue que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 
 7. En la pestaña medición anual observaras graficas del consumo anual.
 
-8. En la pestaña visualización observaras la ultima inferencia que se realió.
+8. En la pestaña visualización observaras la ultima inferencia que se realió
+
+
+## Contribución
+Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si deseas contribuir, por favor envía un pull request o contacta al equipo de desarrollo.
+
+## Contacto
+* KATHERINE PAOLA PARRA TARAZONA. katherineparratarazona@gmail.com 
+* JULIO ANDRÉS SÁNCHEZ ABELLO. jasanchezabe@gmail.com 
