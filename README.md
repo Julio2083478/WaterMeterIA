@@ -1,6 +1,6 @@
 # DISEÑO DE UN SISTEMA DIGITAL PARA LA LECTURA DE CONTADORES DE AGUA POR MEDIO DE CÁMARAS E IA. 
 
-![Alt Text](https://i.imgur.com/4Cgnqwd.png)
+![Alt Text](https://i.imgur.com/2JUb7EV.png)
 
 ## Descripción del sistema
  La toma de datos de los medidores es realizada manualmente por las empresas prestadoras de servicios, que van casa por casa registrando el consumo mensual de las mismas, lo que implica que el usuario no pueda llevar un seguimiento detallado de su consumo, supone errores humanos, baja eficiencia, baja efectividad, susceptibilidad a factores ambientales y costos adicionales por la mano de obra requerida. Esto lleva a la necesidad de crear sistemas y/o elementos que automaticen o digitalicen el proceso de recolección de datos en los medidores y faciliten al usuario el seguimiento de su consumo a lo largo del mes.
@@ -11,6 +11,7 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 
 ### Paso a paso del Hardware
 
-#
+### NOTA: 
+Verifue el dispositivo se encuentre con carga, de lo contrario ponga a cargar las pilas. 
 
 ### Paso a paso de la Interfaz de usuario
