@@ -25,4 +25,14 @@ Verifue que el dispositivo se encuentre con carga, de lo contrario ponga a carga
    
 2. Se debe abrir una pestaña de incio como esta.
 
-3. En la pestaña Ref Contadores
+3. En la pestaña Ref Contadores encontraras la información general de los usuarios.
+
+4. En la pestaña medición diaria observaras graficas del consumo diario.
+
+5. En la pestaña medición semanal observaras graficas del consumo semanal.
+
+6. En la pestaña medición mensual observaras graficas del consumo mensual.
+
+7. En la pestaña medición anual observaras graficas del consumo anual.
+
+8. En la pestaña visualización observaras la ultima inferencia que se realió.
