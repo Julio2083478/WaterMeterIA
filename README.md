@@ -1,2 +1,5 @@
 # DISEÑO DE UN SISTEMA DIGITAL PARA LA LECTURA DE CONTADORES DE AGUA POR MEDIO DE CÁMARAS E IA.
 
+## Descripción del sistema
+
+## Manual de usuario 
