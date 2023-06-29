@@ -1,7 +1,7 @@
 # DISEÑO DE UN SISTEMA DIGITAL PARA LA LECTURA DE CONTADORES DE AGUA POR MEDIO DE CÁMARAS E IA. 
 
 <p align="center">
-  <img src="https://i.imgur.com/YeGkmpO.jpg" alt="Alt Text">
+  <img src="https://i.imgur.com/2JUb7EV.png" alt="Alt Text">
 </p>
 
 ## Descripción del sistema.
