@@ -9,7 +9,10 @@
 
 La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usuario la posibilidad de llevar un registro detallado del uso del servicio para así poder identificar malos hábitos de consumo, fugas en las tuberías, posible deterioro de estas, desgaste de los sellos o malos empalmes que generan consumos fantasmas, para así tomar las acciones necesarias en pro de evitar sobrecostos generados. Este proyecto pretende implementar un módulo o estructura de fácil acople para medidores de agua convencionales, por medio del cual se capturarán imágenes que serán enviadas inalámbricamente para su posterior análisis y digitalización por medio de IA. 
 
-## Link de la base de datos
+## Link de la base de datos para segmentar
+* https://app.roboflow.com/ds/DAJvCus5p3?key=saQ0dXVDxN
+
+## Link de la base de datos para detección 
 * Para la YoloV8: https://app.roboflow.com/ds/EEVCR4GifU?key=4THAoHTpj3
 * Para Detectron: https://app.roboflow.com/ds/PTGveqEZnr?key=orbd7gfs7z
 
