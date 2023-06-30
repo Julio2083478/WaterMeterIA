@@ -23,6 +23,14 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 ### Paso a paso del Hardware.
 1. Cuidadosamente ajuste el contador R200 al dispositivo, desatornillando sus extremos y apretandolo al mismo, teniendo en cuenta que el contador debe estar de forma paralela a la superficie que se encuentre la camara.
 
+<p align="center">
+  <img src="https://i.imgur.com/2lYVVAs.jpg" alt="Alt Text">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/xTY4x8p.jpg" alt="Alt Text">
+</p>
+
 ### NOTA: 
 Verique que el dispositivo se encuentre con carga, de lo contrario ponga a cargar las baterias. 
 
