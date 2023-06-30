@@ -5,7 +5,7 @@
 </p>
 
 ## Descripción del sistema.
- La toma de datos de los medidores es realizada manualmente por las empresas prestadoras de servicios, que van casa por casa registrando el consumo mensual de las mismas, lo que implica que el usuario no pueda llevar un seguimiento detallado de su consumo, supone errores humanos, baja eficiencia, baja efectividad, susceptibilidad a factores ambientales y costos adicionales por la mano de obra requerida. Esto lleva a la necesidad de crear sistemas y/o elementos que automaticen o digitalicen el proceso de recolección de datos en los medidores y faciliten al usuario el seguimiento de su consumo a lo largo del mes.
+La toma de datos de los medidores es realizada manualmente por las empresas prestadoras de servicios, que van casa por casa registrando el consumo mensual de las mismas, lo que implica que el usuario no pueda llevar un seguimiento detallado de su consumo, supone errores humanos, baja eficiencia, baja efectividad, susceptibilidad a factores ambientales y costos adicionales por la mano de obra requerida. Esto lleva a la necesidad de crear sistemas y/o elementos que automaticen o digitalicen el proceso de recolección de datos en los medidores y faciliten al usuario el seguimiento de su consumo a lo largo del mes.
 
 La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usuario la posibilidad de llevar un registro detallado del uso del servicio para así poder identificar malos hábitos de consumo, fugas en las tuberías, posible deterioro de estas, desgaste de los sellos o malos empalmes que generan consumos fantasmas, para así tomar las acciones necesarias en pro de evitar sobrecostos generados. Este proyecto pretende implementar un módulo o estructura de fácil acople para medidores de agua convencionales, por medio del cual se capturarán imágenes que serán enviadas inalámbricamente para su posterior análisis y digitalización por medio de IA. 
 
@@ -22,7 +22,7 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 1. Cuidadosamente ajuste el contador R200 al dispositivo, desatornillando sus extremos y apretandolo al mismo, teniendo en cuenta que el contador debe estar de forma paralela a la superficie que se encuentre la camara.
 
 ### NOTA: 
-Verifue que el dispositivo se encuentre con carga, de lo contrario ponga a cargar las baterias. 
+Verique que el dispositivo se encuentre con carga, de lo contrario ponga a cargar las baterias. 
 
 ### Paso a paso del servidor.
 1.Dirijase desde su navegador a la pagina de filezilla(https://filezilla-project.org/) luego descargue FileZilla Server.
@@ -31,7 +31,7 @@ Verifue que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 
 3.Realiza la cofiguración de los usuarios y grupos, en caso de solo haber usuarios individuales asegurese de dar acceso a cada uno de ellos a la carpeta donde se guardarán las imagenes(permisos de escritura y lectura).
 
-4.verifica que el cortafuegos de tu computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
+4.Verifica que el cortafuegos de tu computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
 
 ### Paso a paso de la Interfaz de usuario.
 1. Busque la aplicación "water meter IA" y dele doble click.
