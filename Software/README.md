@@ -1,1 +1,2 @@
 # WaterMeterIA
+git mv Entrenamiento_Detección_YOLOv8m.ipynb Entrenamiento_Detectron2_.ipynb Entrenamiento_yolov8m_segmentación.ipynb
