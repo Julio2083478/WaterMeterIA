@@ -53,55 +53,73 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 ### Paso a paso de la Interfaz de usuario.
+<p align="justify">
 1. Busque la aplicación "water meter IA" y dele doble click.
-   
+</p>
+
+<p align="justify">
 2. Se debe abrir una pestaña de incio como esta.
+</p>
    
 <p align="center">
   <img src="https://i.imgur.com/9qoZ4Hj.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 3. En la pestaña Ref Contadores encontraras la información general de los usuarios.
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/FFEQMcV.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 4. En la pestaña medición diaria observaras graficas del consumo diario.
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/7Dku74f.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 5. En la pestaña medición semanal observaras graficas del consumo semanal.
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/hcb77sv.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 6. En la pestaña medición mensual observaras graficas del consumo mensual.
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/p7HhSBp.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 7. En la pestaña medición anual observaras graficas del consumo anual.
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/gjcs74i.png" alt="Alt Text">
 </p>
 
+<p align="justify">
 8. En la pestaña visualización observaras la ultima inferencia que se realizó.
- 
+</p>
+
 <p align="center">
   <img src="https://i.imgur.com/577xzOy.png" alt="Alt Text">
 </p>
 
 ## Contribución.
-
+<p align="justify">
 Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si deseas contribuir, por favor envía un pull request o contacta al equipo de desarrollo.
+</p>
 
 ## Contacto.
-
+<p align="justify">
 * KATHERINE PAOLA PARRA TARAZONA. katherineparratarazona@gmail.com 
 * JULIO ANDRÉS SÁNCHEZ ABELLO. jasanchezabe@gmail.com 
+</p>
