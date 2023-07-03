@@ -12,4 +12,5 @@ En dicho apartado se encuentra el codigo de la espcam, donde se realiza el proce
 En esta carpeta se encuentran los codigos de YOLOv8m para segmentar, YOLOv8m para detección y Detectron2 tambien para detección, con el fin de realizar una comparativa de rendimiento entre estos dos ultimos, cada modelo se encuentra con su respectivo colab donde fueron ejecutados y se pueden observar las metricas de rendimiento.
 
 ## Codigo de la interfaz
+En esta carpeta se encuentran los archivos necesarios para el funcionamiento de la interfaz desarrollada en QtDesigner.
 ******
