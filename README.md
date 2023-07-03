@@ -119,7 +119,8 @@ Este proyecto se encuentra en constante evolución, por lo que cualquier contrib
 </p>
 
 ## Contacto.
-<p align="justify">
-* KATHERINE PAOLA PARRA TARAZONA. katherineparratarazona@gmail.com 
+
+* KATHERINE PAOLA PARRA TARAZONA. katherineparratarazona@gmail.com
+  
 * JULIO ANDRÉS SÁNCHEZ ABELLO. jasanchezabe@gmail.com 
-</p>
+
