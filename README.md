@@ -29,6 +29,7 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 <p align="justify">
 1. Cuidadosamente ajuste el contador R200 al dispositivo, desatornillando sus extremos y apretandolo al mismo, teniendo en cuenta que el contador debe estar de forma paralela a la superficie que se encuentre la camara.
 </p>
+
 | ![Alt Text](https://i.imgur.com/3TAgVZ6.jpg) | ![Alt Text](https://i.imgur.com/BaZHDOm.jpg)  | ![Alt Text](https://i.imgur.com/JFChdmN.jpg)  |
 |----------------------------------------------|---------------------------------------------|---------------------------------------------|
 
