@@ -17,7 +17,7 @@ char* ftp_pass = "2181";  // Contraseña del servidor FTP
 char* ftp_path = "/";  // Ruta en el servidor FTP
 
 const char* WIFI_SSID = "******";  // Nombre de la red Wi-Fi
-const char* WIFI_PASS = "******";  // Contraseña de la red Wi-Fi
+const char* WIFI_PASS = "*******";  // Contraseña de la red Wi-Fi
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", (-3600*5), 60000);// Cliente NTP para obtener la hora actual
@@ -47,6 +47,7 @@ camera_config_t config;
 void setup() {
   WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0); // Deshabilitar detector de caídas de voltaje
   Serial.begin(115200);
+  pinMode(3, OUTPUT);
   
   
 
@@ -90,15 +91,7 @@ void setup() {
     config.jpeg_quality = 12; // Calidad de compresión JPEG: 12 
     config.fb_count = 1; // Contador de buffers de frame: 1
   }
-    
-  // Inicialización de la cámara
-  esp_err_t err = esp_camera_init(&config);
-  if (err != ESP_OK) {
-    Serial.printf("Error al inicializar la cámara: 0x%x", err);
-    return;
-  }
 
-  delay(10000);
 
   // Inicialización de la tarjeta SD
   if (!SD_MMC.begin()) {
@@ -120,7 +113,16 @@ void setup() {
   delay(3000); // Retardo de 3 segundos
   Serial.println(timeClient.getFormattedTime()); // Imprimir la hora formateada obtenida del servidor NTP
 
+   digitalWrite(3, HIGH);//Encendido de los leds antes de inicializar la camara para que se acostumbre a esta luz
+  // Inicialización de la cámara
+  esp_err_t err = esp_camera_init(&config);
+  if (err != ESP_OK) {
+    Serial.printf("Error al inicializar la cámara: 0x%x", err);
+    return;
+  }
 
+  delay(10000);//tiempo de espera para que la cámara se ajuste a la luz proporcionada
+  
   // Verificación de disponibilidad del servidor FTP y envío de imágenes
   if (ftpAvailable()) {
     ftp.OpenConnection();
@@ -129,7 +131,7 @@ void setup() {
 
   takeAndSavePhoto();
 
-  esp_deep_sleep(3 * 3600 * 1000000);// Se despierta cada 3 horas para tomar captura 
+  esp_deep_sleep(3*3600* 1000000);// Se despierta cada 3 horas para tomar captura 
 }
 
 void loop() {
@@ -179,6 +181,7 @@ void takeAndSavePhoto() {
   
   file.close(); // Cerrar el archivo
   esp_camera_fb_return(fb); // Liberar el búfer de frame de la cámara
+  digitalWrite(3, LOW); //apagado de los leds
   
 }
 
