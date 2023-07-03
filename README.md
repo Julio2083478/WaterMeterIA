@@ -78,7 +78,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 8. En la pestaña visualización observaras la ultima inferencia que se realizó.
-9. 
+ 
 <p align="center">
   <img src="https://i.imgur.com/577xzOy.png" alt="Alt Text">
 </p>
