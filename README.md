@@ -58,12 +58,17 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 1. Busque la aplicación "water meter IA" y dele doble click.
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/5sWeFKc.png" alt="Alt Text">
+</p>
+
+
 <p align="justify">
 2. Se debe abrir una pestaña de incio como esta.
 </p>
    
 <p align="center">
-  <img src="https://i.imgur.com/9qoZ4Hj.png" alt="Alt Text">
+  <img src="https://i.imgur.com/u1us7qT.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -71,7 +76,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/FFEQMcV.png" alt="Alt Text">
+  <img src="https://i.imgur.com/CLFNdMS.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -79,7 +84,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/7Dku74f.png" alt="Alt Text">
+  <img src="https://i.imgur.com/o6EXqwF.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -87,7 +92,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/hcb77sv.png" alt="Alt Text">
+  <img src="https://i.imgur.com/TkU3QoH.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -95,7 +100,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/p7HhSBp.png" alt="Alt Text">
+  <img src="https://i.imgur.com/7gBMfnQ.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -103,7 +108,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/gjcs74i.png" alt="Alt Text">
+  <img src="https://i.imgur.com/ZTOhhG0.png" alt="Alt Text">
 </p>
 
 <p align="justify">
@@ -111,7 +116,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/577xzOy.png" alt="Alt Text">
+  <img src="https://i.imgur.com/sAflurm.png" alt="Alt Text">
 </p>
 
 ## Contribución.
