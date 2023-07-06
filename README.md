@@ -42,15 +42,15 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-2.Luego de descargar FileZilla Proceda a abrirlo, en la sección de Host debes ingresar "localhost", el puerto puedes dejar el que aparezca por defecto y pudes definir la contraseña que desees.
+2.Luego de descargar FileZilla Proceda a abrirlo, en la sección de Host debe ingresar "localhost", el puerto puede dejar el que aparezca por defecto y pude definir la contraseña que desee.
 </p>
 
 <p align="justify">
-3.Realiza la cofiguración de los usuarios y grupos, en caso de solo haber usuarios individuales asegurese de dar acceso a cada uno de ellos a la carpeta donde se guardarán las imagenes(permisos de escritura y lectura).
+3.Realice la cofiguración de los usuarios y grupos, en caso de solo haber usuarios individuales asegurese de dar acceso a cada uno de ellos a la carpeta donde se guardarán las imagenes (permisos de escritura y lectura).
 </p>
 
 <p align="justify">
-4.Verifica que el cortafuegos de tu computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
+4.Verifique que el cortafuegos de su computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
 </p>
 
 ### Paso a paso de la Interfaz de usuario.
@@ -72,7 +72,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-3. En la pestaña Ref Contadores encontraras la información general de los usuarios.
+3. En la pestaña Ref Contadores encontrara la información general de los usuarios.
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-4. En la pestaña medición diaria observaras graficas del consumo diario.
+4. En la pestaña medición diaria observara la gráfica del consumo diario.
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-5. En la pestaña medición semanal observaras graficas del consumo semanal.
+5. En la pestaña medición semanal observara la gráfica del consumo semanal.
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-6. En la pestaña medición mensual observaras graficas del consumo mensual.
+6. En la pestaña medición mensual observara la gráfica del consumo mensual.
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-7. En la pestaña medición anual observaras graficas del consumo anual.
+7. En la pestaña medición anual observara la gráfica del consumo anual.
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 </p>
 
 <p align="justify">
-8. En la pestaña visualización observaras la ultima inferencia que se realizó.
+8. En la pestaña visualización observara la ultima inferencia que se realizó.
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Verique que el dispositivo se encuentre con carga, de lo contrario ponga a carga
 
 ## Contribución.
 <p align="justify">
-Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si deseas contribuir, por favor envía un pull request o contacta al equipo de desarrollo.
+Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si desea contribuir, por favor envíe un pull request o contacta al equipo de desarrollo.
 </p>
 
 ## Contacto.
