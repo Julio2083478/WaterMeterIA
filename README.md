@@ -27,7 +27,7 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 ### Paso a paso del Hardware.
 
 <p align="justify">
-1. Cuidadosamente ajuste el contador R200 al dispositivo, desatornillando sus extremos y apretandolo al mismo, teniendo en cuenta que el contador debe estar de forma paralela a la superficie que se encuentre la camara.
+1. Ajuste el contador de agua modelo R200 a la estructura, inicie desatornillando levemente las tuercas de los extremos, introduzca el cuerpo principal haciendo encajar los orificios en forma de "U" a cada extremo del tubo del contador y finalice apretando nuevamente las tuercas, tenga en cuenta que el lente de la camara debe quedar paralelo al contador.
 </p>
 
 | ![Alt Text](https://i.imgur.com/3TAgVZ6.jpg) | ![Alt Text](https://i.imgur.com/BaZHDOm.jpg)  | ![Alt Text](https://i.imgur.com/JFChdmN.jpg)  |
