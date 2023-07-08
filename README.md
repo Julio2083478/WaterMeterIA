@@ -17,12 +17,12 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 
 * https://app.roboflow.com/ds/DAJvCus5p3?key=saQ0dXVDxN
 
-## Link de la base de datos para detección. 
+## Enlace de la base de datos para detección. 
 
 * Para la YoloV8: https://app.roboflow.com/ds/EEVCR4GifU?key=4THAoHTpj3
 * Para Detectron: https://app.roboflow.com/ds/PTGveqEZnr?key=orbd7gfs7z
 
-## Manual de usuario. 
+## Instrucciones de uso. 
 
 ### Paso a paso del Hardware.
 
