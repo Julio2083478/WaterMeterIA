@@ -27,14 +27,14 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 ### Paso a paso del Hardware.
 
 <p align="justify">
-1. Ajuste el contador de agua modelo R200 a la estructura, inicie desatornillando levemente las tuercas de los extremos, introduzca el cuerpo principal haciendo encajar los orificios en forma de "U" a cada extremo del tubo del contador y finalice apretando nuevamente las tuercas, tenga en cuenta que el lente de la camara debe quedar paralelo al contador.
+1. Para ajustar el contador de agua modelo R200 a la estructura, inicie aflojando levemente las tuercas de los extremos, luego coloque el cuerpo principal asegurándose que los orificios en forma de "U" encajen correctamente a cada extremo del tubo del contador, una vez en su lugar finalice apretando nuevamente las tuercas para asegurar la estructura al contador. Es importante tener en cuenta  que el lente de la cámara debe quedar paralelo al contador para garantizar una captura óptima de las imágenes.
 </p>
 
 | ![Alt Text](https://i.imgur.com/3TAgVZ6.jpg) | ![Alt Text](https://i.imgur.com/BaZHDOm.jpg)  | ![Alt Text](https://i.imgur.com/JFChdmN.jpg)  |
 |----------------------------------------------|---------------------------------------------|---------------------------------------------|
 
 ### NOTA: 
-Verique que el dispositivo se encuentre con carga, de lo contrario ponga a cargar las baterias. 
+Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de los  LED’s indicadores incorporados , si todos los LED’s están encendidos la power bank tiene suficiente carga. En caso contrario asegúrese de recargar las baterías para garantizar que el dispositivo esté listo para su uso. 
 
 ### Paso a paso del servidor.
 <p align="justify">
