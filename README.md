@@ -36,26 +36,26 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 ### NOTA: 
 Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de los  LED’s indicadores incorporados , si todos los LED’s están encendidos la power bank tiene suficiente carga. En caso contrario asegúrese de recargar las baterías para garantizar que el dispositivo esté listo para su uso. 
 
-### Paso a paso del servidor.
+### Instructivo uso del servidor.
 <p align="justify">
-1.Dirijase desde su navegador a la pagina de filezilla(https://filezilla-project.org/) luego descargue FileZilla Server.
+1.Diríjase desde su navegador a la página de filezilla (https://filezilla-project.org/) y descargue FileZilla Server.
 </p>
 
 <p align="justify">
-2.Luego de descargar FileZilla Proceda a abrirlo, en la sección de Host debe ingresar "localhost", el puerto puede dejar el que aparezca por defecto y pude definir la contraseña que desee.
+2.Abra FileZilla en su computador, en la sección de Host ingrese "localhost", deje el puerto que aparece por defecto y por último defina la contraseña que desee.
 </p>
 
 <p align="justify">
-3.Realice la cofiguración de los usuarios y grupos, en caso de solo haber usuarios individuales asegurese de dar acceso a cada uno de ellos a la carpeta donde se guardarán las imagenes (permisos de escritura y lectura).
+3.Realice la configuración de los usuarios y grupos, en caso de solo haber usuarios individuales asegúrese de conceder acceso a cada uno de ellos a la carpeta donde se guardarán las imágenes (permisos de escritura y lectura).
 </p>
 
 <p align="justify">
-4.Verifique que el cortafuegos de su computadora le permita a filezilla realizar solicitudes por el puerto asignado, por defecto es el puerto 21 , para más información revise la documentación de FilezZilla en su pagina oficial.
+4.Verifique que el cortafuegos de su computador permita a filezilla realizar solicitudes por el puerto asignado (puerto 21 por defecto), para más información revise la documentación de Filezilla en la página oficial.
 </p>
 
-### Paso a paso de la Interfaz de usuario.
+### Instructivo de la interfaz de usuario.
 <p align="justify">
-1. Busque la aplicación "water meter IA" y dele doble click.
+1. Busque la aplicación "Water Meter IA" y dele doble click.
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 
 
 <p align="justify">
-2. Se debe abrir una pestaña de incio como esta.
+2. Se mostrará una pestaña de inicio como la siguiente.
 </p>
    
 <p align="center">
@@ -72,7 +72,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-3. En la pestaña Ref Contadores encontrara la información general de los usuarios.
+3. En la pestaña Ref Contadores encontrará la información general de los usuarios.
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-4. En la pestaña medición diaria observara la gráfica del consumo diario.
+4. En la pestaña medición diaria se presenta la gráfica del consumo diario.
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-5. En la pestaña medición semanal observara la gráfica del consumo semanal.
+5. En la pestaña medición semanal se presenta la gráfica del consumo semanal.
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-6. En la pestaña medición mensual observara la gráfica del consumo mensual.
+6. En la pestaña medición mensual se presenta la gráfica del consumo mensual.
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-7. En la pestaña medición anual observara la gráfica del consumo anual.
+7. En la pestaña medición anual se presenta la gráfica del consumo anual.
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 </p>
 
 <p align="justify">
-8. En la pestaña visualización observara la ultima inferencia que se realizó.
+8. En la pestaña visualización se observará la última inferencia realizada.
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Verifique el nivel de carga del dispositivo. Esto se puede hacer  a través de l
 
 ## Contribución.
 <p align="justify">
-Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si desea contribuir, por favor envíe un pull request o contacta al equipo de desarrollo.
+Este proyecto se encuentra en constante evolución, por lo que cualquier contribución será bienvenida. Si desea contribuir, por favor envíe un pull request o contacte al equipo de desarrollo.
 </p>
 
 ## Contacto.
@@ -129,4 +129,6 @@ Este proyecto se encuentra en constante evolución, por lo que cualquier contrib
 * KATHERINE PAOLA PARRA TARAZONA. katherineparratarazona@gmail.com
   
 * JULIO ANDRÉS SÁNCHEZ ABELLO. jasanchezabe@gmail.com 
+
+
 
