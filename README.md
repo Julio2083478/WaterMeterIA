@@ -24,7 +24,7 @@ La inclusión de instrumentos inteligentes debe ser clave, ya que brindan al usu
 
 ## Instrucciones de uso. 
 
-### Paso a paso del Hardware.
+### Instructivo del Hardware.
 
 <p align="justify">
 1. Para ajustar el contador de agua modelo R200 a la estructura, inicie aflojando levemente las tuercas de los extremos, luego coloque el cuerpo principal asegurándose que los orificios en forma de "U" encajen correctamente a cada extremo del tubo del contador, una vez en su lugar finalice apretando nuevamente las tuercas para asegurar la estructura al contador. Es importante tener en cuenta  que el lente de la cámara debe quedar paralelo al contador para garantizar una captura óptima de las imágenes.
